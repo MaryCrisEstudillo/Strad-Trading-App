@@ -11,4 +11,5 @@ class Admins::DashboardController < ApplicationController
     # finding the user/id and updating it to boolean value" true
   end
 
+
 end
